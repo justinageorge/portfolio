@@ -1,0 +1,56 @@
+
+   <section class="skills">
+    <h1>Technical skills</h1>
+    <div class="col">
+    <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 90%">HTML</div>
+        <span>90%</span>
+      </div>
+      <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%">CSS</div>
+        <span>75%</span>
+      </div>
+      <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%">BOOTSRAP</div>
+        <span>75%</span>
+    </div>
+    <div class="progress" role="progressbar" aria-label="Animated striped example" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%">PYTHON DJANGO</div>
+        <span>85%</span>
+    </div>
+</div>
+<div class="col">
+        <h1>Professional Skills</h1>
+        <div class="skill">
+            <h3>Communication Skills</h3>
+            <div class="radial-bar" data-percent="80">
+                <div class="bar"></div>
+                <div class="value">
+                    <span>80%</span>
+                </div>
+            </div>
+        </div>
+        <div class="skill">
+            <h3>Team Work</h3>
+            <div class="radial-bar" data-percent="80">
+                <div class="bar"></div>
+                <div class="value">
+                    <span>80%</span>
+                </div>
+            </div>
+        </div>
+        <div class="skill">
+            <h3>Problem Solving skills</h3>
+            <div class="radial-bar" data-percent="80">
+                <div class="bar"></div>
+                <div class="value">
+                    <span>90%</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+   </section>
